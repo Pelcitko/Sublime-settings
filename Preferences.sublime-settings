@@ -1,0 +1,36 @@
+{
+	"always_show_minimap_viewport": true,
+	"auto_complete": true,
+	"auto_complete_with_fields": true,
+	"bold_folder_labels": true,
+	"color_scheme": "Packages/User/SublimeLinter/Monokai (SL).tmTheme",
+	"detect_slow_plugins": false,
+	"font_options": "subpixel_antialias",
+	"font_size": 11,
+	"gutter": true,
+	"highlight_line": true,
+	"highlight_modified_tabs": true,
+	"ignored_packages":
+	[
+		"Package Control",
+		"Sublime Linter",
+		"Vintage"
+	],
+	"line_padding_bottom": 1,
+	"line_padding_top": 1,
+	"rulers":
+	[
+		80
+	],
+	"show_tab_close_buttons": false,
+	"soda_folder_icons": false,
+	"soda_rect_scrollbars": true,
+	"soda_tabs_autowidth": true,
+	"tab_size": 4,
+	"theme": "SoDaReloaded Dark.sublime-theme",
+	"translate_tabs_to_spaces": true,
+	"trim_trailing_white_space_on_save": true,
+	"wide_caret": true,
+	"word_wrap": true,
+	"wrap_width": 80
+}
